@@ -150,9 +150,9 @@ Fork 本仓库
 本项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情
 
 👨‍💻 作者
-kakun
+kakun / yosaKun
 
-GitHub: @hanasite
+GitHub: @yosaKun
 
 邮箱: yujiaqwq@gmail.com
 
